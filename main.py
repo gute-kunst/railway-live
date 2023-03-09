@@ -15,7 +15,7 @@ async def root():
             <title>Some HTML in here</title>
         </head>
         <body>
-            <h1>Fancy Surface Reconstruction (vtk copy paste) 🐦</h1>
+            <h1>Fancy Surface Reconstruction (vtk copy paste) 🐋</h1>
         </body>
     </html>
     """
